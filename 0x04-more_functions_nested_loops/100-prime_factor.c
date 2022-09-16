@@ -17,7 +17,7 @@ int main(void)
 		else
 		{
 			maxFact = prime;
-			prime /= 2;
+			prime /= div;
 			if (prime == 1)
 				break;
 		}
