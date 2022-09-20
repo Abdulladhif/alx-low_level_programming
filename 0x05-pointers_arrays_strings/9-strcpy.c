@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- *_strcpy - copies string
+ * _strcpy - copies string
  * @dest: destination
  * @src: source
  *
- * Resturn: dest include terminator '\0'
+ * Return: dest include terminator '\0'
  */
 
 char *_strcpy(char *dest, char *src)
