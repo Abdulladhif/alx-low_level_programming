@@ -339,7 +339,7 @@ Write a function that capitalizes all words of a string.
 
 * Prototype: ``char *cap_string(char *);``
 * Separators of words: space, tabulation, new line, ``,``, ``;``, ``.``, ``!``, ``?``, ``"``, ``(``, ``)``, ``{``, and ``}``
-
+```
 julien@ubuntu:~/0x06$ cat 6-main.c
 #include "main.h"
 #include <stdio.h>
@@ -616,3 +616,4 @@ julien@ubuntu:~/0x06$
 * GitHub repository: `alx-low_level_programming`
 * Directory: `0x06-pointers_arrays_strings`
 * File: `104-print_buffer.c`
+
