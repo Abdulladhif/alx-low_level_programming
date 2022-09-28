@@ -14,7 +14,7 @@ int root(int n, int r)
 		return (-1);
 	if (r * r == n)
 		return (r);
-	return (root(n, i + 1));
+	return (root(n, r + 1));
 
 }
 
